@@ -1,1 +1,1 @@
-# Exploring-Deep-AI
+# Exploring Deep AI
